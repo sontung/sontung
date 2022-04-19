@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/sontung/github-stats/blob/master/generated/overview.svg)
+
 <!--
 **sontung/sontung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:nerd_face: Interested in 3D computer vision, mobile robotics, computer graphics (physics-based rendering), code optimization.
