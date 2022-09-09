@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:nerd_face: Interested in 3D computer vision, mobile robotics, computer graphics (physics-based rendering), code optimization.
+:nerd_face: I am currently a PhD student at the Perception & Localization group, QUT Center for Robotics, Australia.
+
+- 🤔 I am interested in 3D computer vision, mobile robotics, computer graphics, code optimization (in that order).
+
+- 🔭 I am currently working on developing new visual localization algorithms for compact, lightweight maps.
+
+- 📫 How to reach me: sontung.nguyen@hdr.qut.edu.au
