@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - 🤔 I am interested in 3D computer vision, mobile robotics, computer graphics, code optimization (in that order).
 
-- 🔭 I am currently working on developing new visual localization algorithms for compact, lightweight maps.
+- 🔭 I am currently working on developing disambiguation algorithms for visual localization.
 
 - 📫 How to reach me: sontung.nguyen@hdr.qut.edu.au
