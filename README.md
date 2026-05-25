@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:nerd_face: I am currently a PhD student at the Perception & Localization group, QUT Center for Robotics, Australia.
+:nerd_face: I am currently a RnD staff at a robotics company. I hold a PhD from the Perception & Localization group, QUT, Australia.
 
-- 🤔 I am interested in 3D computer vision, mobile robotics, computer graphics, code optimization (in that order).
+- 🤔 I am interested in 3D computer vision, esp. visual/lidar place recognition and visual relocalization (in that order).
 
-- 🔭 I am currently working on developing disambiguation algorithms for visual localization.
-
-- 📫 How to reach me: sontung.nguyen@hdr.qut.edu.au
+- 🔭 I am currently working on developing disambiguation algorithms for visual (re)localization.
