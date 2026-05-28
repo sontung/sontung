@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 :nerd_face: I am currently a RnD staff at a robotics company. I hold a PhD from the Perception & Localization group, QUT, Australia.
 
-- 🤔 I am interested in 3D computer vision, esp. visual/lidar place recognition and visual relocalization (in that order).
+- 🤔 I am interested in 3D computer vision, esp. visual/lidar place recognition and visual relocalization.
 
-- 🔭 I am currently working on developing disambiguation algorithms for visual (re)localization.
+- 🔭 I am currently working on developing disambiguation algorithms for visual (re)localization research-wise and all things localization engineering-wise.
